@@ -1,0 +1,15 @@
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\bin\Debug\DTO.dll
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\bin\Debug\DTO.pdb
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\bin\Debug\DAL.dll
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\bin\Debug\EntityFramework.dll
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\bin\Debug\DAL.pdb
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\bin\Debug\DAL.dll.config
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\bin\Debug\EntityFramework.xml
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\obj\Debug\DTO.dll
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\obj\Debug\DTO.pdb
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\bin\Debug\DTO.dll.config
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\משתמש\Documents\miriam\liram\Liram\DTO\bin\Debug\EntityFramework.SqlServer.xml
